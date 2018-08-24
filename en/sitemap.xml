@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/redchickSota/redchickSota.github.io.git/categories/</loc>
+    <loc>https://redchicksota.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://github.com/redchickSota/redchickSota.github.io.git/pl/categories/"
+                href="https://redchicksota.github.io/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/redchickSota/redchickSota.github.io.git/categories/"
+                href="https://redchicksota.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://github.com/redchickSota/redchickSota.github.io.git/</loc>
+    <loc>https://redchicksota.github.io/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://github.com/redchickSota/redchickSota.github.io.git/pl/"
+                href="https://redchicksota.github.io/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/redchickSota/redchickSota.github.io.git/"
+                href="https://redchicksota.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://github.com/redchickSota/redchickSota.github.io.git/tags/</loc>
+    <loc>https://redchicksota.github.io/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://github.com/redchickSota/redchickSota.github.io.git/pl/tags/"
+                href="https://redchicksota.github.io/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/redchickSota/redchickSota.github.io.git/tags/"
+                href="https://redchicksota.github.io/tags/"
                 />
   </url>
   
